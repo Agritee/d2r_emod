@@ -1,0 +1,10 @@
+preview		//预览，最新的源文件和release文件，用于预览查看
+release		//生成
+resource		//第三方资源
+script		//脚本
+sourceFile		//D2R源文件，由Ladiks Casc Viewer解压出
+table		//一些有用的数据，其中吐槽之类的可以通过script的脚本从别的脚本里扒
+tools		//D2R和mpq解包工具
+
+tips:
+1.fullVersion中未未屏蔽物品的文件
